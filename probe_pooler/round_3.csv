@@ -1,0 +1,51 @@
+name,protein_accession,max_possible_probe_pairs,number_of_probe_pairs_designed,hairpin,target_number,pool_number,pool_id,estimated_pool_price,species,notes
+abcc10a,XP_054749077.1,72,20,b1,1,1,,226.17,,
+abcc1/6,XP_054762700.1,75,20,b2,2,1,,,,sp-abcc6
+abcb1,XP_054767522.1,21,20,b3,3,1,,,,
+abcb6,XP_054767869.1,39,20,b4,4,1,,,,
+abcb7,XP_054753865.1,35,20,b5,5,1,,,,
+abcc10b,XP_054758003.1,52,20,b1,1,2,,226.17,,
+abcb1/4,XP_054768939.1,39,20,b2,2,2,,,,sp-abcb4
+abcb9,XP_054749927.1,21,20,b3,3,2,,,,
+protein white/abcg1,XP_054752687.1,23,20,b4,4,2,,,,sp-abcg1
+abca2,XP_054769494.1,92,20,b5,5,2,,,,
+abcb1/4,XP_054768746.1,56,20,b1,1,3,,226.17,,sp-abcb4
+abcb10,XP_054758344.1,31,20,b2,2,3,,,,
+abcg2,XP_054773833.1,31,20,b3,3,3,,,,
+abca1,XP_054764169.1,112,20,b4,4,3,,,,
+ABCC4 X1,XP_054771153.1,64,20,b5,5,3,,,,
+slc18a2,XP_054766723.1,22,20,b1,1,4,,226.17,,
+protein white/abcg11,XP_054757300.1,29,20,b2,2,4,,,,sp-abcg11
+abcc5/abcc2,XP_054769860.1,52,20,b3,3,4,,,,sp-abcc2
+ABCC4 X2,XP_054771154.1,64,20,b4,4,4,,,,
+ABCC9,XP_054752195.1,68,20,b5,5,4,,,,
+SLC2A5,XP_054769179.1,23,20,b1,1,5,,226.17,,
+protein white/abcg12,XP_054767932.1,29,20,b2,2,5,,,,sp-abcg12
+abca3,XP_054762900.1,84,20,b3,3,5,,,,
+ABCC4 X3,XP_054771155.1,63,20,b4,4,5,,,,
+slc18a2,XP_054766724.1,20,20,b5,5,5,,,,
+slc52a3,XP_054748376.1,21,20,b1,1,6,,226.17,,
+abca4,XP_054772188.1,41,20,b2,2,6,,,,
+ABCC4 X4,XP_054771156.1,63,20,b3,3,6,,,,
+slc10a2,XP_054766380.1,24,20,b4,4,6,,,,
+slc13a5,XP_054756074.1,21,20,b5,5,6,,,,
+abca5,XP_054762784.1,61,20,b1,1,7,,226.17,,
+ABCC4 X5,XP_054771157.1,54,20,b2,2,7,,,,
+slc22a4,XP_054752659.1,24,20,b3,3,7,,,,
+mucin-17 like,XP_054761321.1,297,20,b4,4,7,,,,sp-mucin-17
+mucin-2 like,XP_054755107.1,48,20,b5,5,7,,,,sp-mucin-2
+ABCC4 X1 2,XP_054769963.1,68,20,b1,1,8,,226.17,,
+hyalin-like,XP_054770576.1,89,20,b2,2,8,,,,sp-mucin-17
+mucin-17 like,XP_054749965.1,239,20,b3,3,8,,,,sp-mucin-17
+mucin-2 like,XP_054751473.1,62,20,b4,4,8,,,,sp-mucin-5ac
+tyrosine-protein phosphatase 10D-like,XP_054775186.1,45,20,b5,5,8,,,,sp-mucin-17
+mucin-2 like,XP_054761721.1,20,20,b1,1,9,,218.583,,sp-mucin-5ac
+uncharacterized,XP_054757706.1,17,17,b2,2,9,,,,sp-mucin-5b
+mucin-17 like,XP_054749729.1,33,20,b3,3,9,,,,sp-mucin-17
+uncharacterized,XP_054765338.1,46,20,b4,4,9,,,,sp-mucin-19
+uncharacterized,XP_054761236.1,97,20,b5,5,9,,,,sp-mucin-like protein
+uncharacterized,XP_054749579.1,25,20,b1,1,10,,226.17,,sp-mucin-5ac
+uncharacterized,XP_054755034.1,82,20,b2,2,10,,,,sp-mucin-12
+BRCA2-interacting transcriptional repressor EMSY-like,XP_054771245.1,55,20,b3,3,10,,,,sp-mucin-5ac
+mucin-2 like,XP_054748373.1,62,20,b4,4,10,,,,sp-mucin-5ac
+microtubule-associated protein futsch-like,XP_054762108.1,198,20,b5,5,10,,,,sp-mucin-16
